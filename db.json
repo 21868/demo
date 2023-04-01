@@ -16,7 +16,7 @@
             "sex": "M",
             "nationality": "GR","address": "ath","homePhone": 123, "mobilePhone": 123, "email": "we@hua.gr","workAddress": "ath","general_emp_Type": 1,"specific_emp_Type": 1
       },
-    {
+      {
             "user": 2,
             "givenName": "kostas",
             "surName": "moir",
