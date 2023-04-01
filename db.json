@@ -1,14 +1,25 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+      {
+            "user": 1,
+            "givenName": "test",
+            "surName": "test",
+            "displayName": "test",
+            "fatherName": "test",
+            "motherName": "test",
+            "id": "123",
+            "idIssuer": "korimth",
+            "issueDate": "2023-03-30",
+            "birthDate": "2023-03-30",
+            "TIN": 123,
+            "SSN": 123,
+            "sex": "M",
+            "nationality": "GR",
+            "address": "ath",
+            "homePhone": 123,
+            "mobilePhone": 123,
+            "email": "we@hua.gr",
+            "workAddress": "ath",
+            "general_emp_Type": 1,
+            "specific_emp_Type": 1
+      }
+]
