@@ -1,5 +1,5 @@
-[
-      {
+
+     {
             "user": 1,
             "givenName": "test",
             "surName": "test",
@@ -22,4 +22,4 @@
             "general_emp_Type": 1,
             "specific_emp_Type": 1
       }
-]
+
